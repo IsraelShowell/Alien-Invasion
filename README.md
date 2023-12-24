@@ -10,25 +10,9 @@ I added a few different things to it myself, and I have plans to add to it.
 I typed all the code line by line whilst following this guide.
 
 #How to play
-Make sure you have Python and Pygame installed on your machine!
-There should be a few tutorials on Youtube to assist with that.
-Next, download all the .py files, and the Images folder.
-Once you have all the files and the Images folder, put those all in a new folder of your choosing
-Finally, run Alien_Invasion_Game.py to play! 
-
-Version History:
-1.00: 
-Development Time: 12-19-23-2023
-Inital Version.
-Uploaded to Github.
-
-
-
-Current Features as of 1.00:
-Player can move ship and shoot bullets from it
-Player can quit game via the q key
-Game speeds up with every level
-Code is refactorable and relatively simple to read and understand
+Download the zip file, unzip it in a new folder, and then click the executable!
+Note: Windows may read it as a virus, it did on my computer when I packaged it using Pyinstaller.
+I played around with some of the arguements to make it work, and it ran fine, but let me know if it gives you any trouble!
 
 
 Future plans:
