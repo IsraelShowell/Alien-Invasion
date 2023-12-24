@@ -1,0 +1,19 @@
+Version History:
+1.0.0: 
+12-19-23-2023
+Inital Version.
+Uploaded to Github.
+
+1.0.1: 
+12-24-23
+Font changed to Calibri
+Game is now an executable
+
+
+Current Features as of V-1.01:
+Player can move ship and shoot bullets from it
+Player can quit game via the q key
+Game speeds up with every level
+Code is refactorable and relatively simple to read and understand
+Font for scores is now set to Calibri
+Game is now an executable 
