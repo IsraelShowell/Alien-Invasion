@@ -9,6 +9,12 @@ This project has furthered my knowledge of Python and Pygame.
 I added a few different things to it myself, and I have plans to add to it.
 I typed all the code line by line whilst following this guide.
 
+#How to play
+Make sure you have Python and Pygame installed on your machine!
+There should be a few tutorials on Youtube to assist with that.
+Next, download all the .py files, and the Images folder.
+Once you have all the files and the Images folder, put those all in a new folder of your choosing
+Finally, run Alien_Invasion_Game.py to play! 
 
 Version History:
 1.00: 
@@ -33,3 +39,4 @@ Make Easy, Normal, and Hard modes of the game.
 Add a super enemy
 Add a all-time high score feature
 Improve Scoring System
+
