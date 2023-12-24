@@ -3,7 +3,7 @@
 # This game was a project from the Python book, Python Crash Course by Eric Matthes.
 # Creator: Israel Showell
 # Project: Alien Invasion Game
-# Current Version: 1.00
+# Current Version: 1.01
 
 This project has furthered my knowledge of Python and Pygame. 
 I added a few different things to it myself, and I have plans to add to it.
