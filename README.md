@@ -1,7 +1,7 @@
 # Alien-Invasion
 # Creator: Israel Showell
 # Project: Alien Invasion Game
-# Current Version: 1.01
+# Current Version: 1.0.1
 
 This project is a game developed with Pygame and Python!  
 
